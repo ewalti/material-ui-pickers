@@ -14,6 +14,8 @@ export type DateTimePickerProps = DateTimePickerProps;
 
 export type DateTimePickerInlineProps = DateTimePickerInlineProps;
 
+export { DatePickerBase } from './DatePicker';
+
 export { default as DatePicker, InlineDatePicker } from './DatePicker';
 
 export { default as TimePicker, InlineTimePicker } from './TimePicker';
