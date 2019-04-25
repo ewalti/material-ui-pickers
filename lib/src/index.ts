@@ -19,6 +19,8 @@ export type MaterialUiPickersDate = MaterialUiPickersDate;
 
 export { default as DatePicker } from './DatePicker';
 
+export { default as DatePickerRoot } from './DatePicker/DatePickerRoot';
+
 export { default as KeyboardDatePicker } from './DatePicker/KeyboardDatePicker';
 
 export { default as TimePicker } from './TimePicker';
